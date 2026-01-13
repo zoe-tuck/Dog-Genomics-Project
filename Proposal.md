@@ -17,13 +17,13 @@
 
 ## 4. Specific Aims
 
-  #### * Identify any phenotypic similarities between like-affected breeds 
+  #### Build an alignment of genomes/SNPs across all known breeds of dogs including wolves against a reference genome sequence.  
 
-  #### * Create a general database of known diseases linked to breeds 
+  #### Map all known disease mutations in dogs to the reference genome sequence  
 
-  #### * Create a tool that analyzes available genomic data sets to identify highly differntiated SNPs between populations 
+  #### Correlate known breed-specific diseases to uniquely high SNP frequencies across a given breed.  
 
-  #### * Match highlighted SNPs to disease 
+  #### Develop platform with visualizations that can be useful for similar problems using the same Illumina Bead Chip technology. 
 
 ## 5. Significance
 
